@@ -6,10 +6,6 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 
-/*
-  Compilar con: gcc shell.c -o shell
-  Ejecutar con: ./shell
-*/
 
 #define MAX_LINE 80
 #define MAX_ARGS 40
